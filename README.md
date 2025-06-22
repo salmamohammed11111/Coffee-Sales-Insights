@@ -22,11 +22,12 @@ This project analyzes sales data across coffee products, exploring trends by reg
 
 ## 📄 Files Included  
 
-| File | Description |  
-| `Coffee Sales Insights.twbx` | Tableau Packaged Workbook (download + explore) |  
-| `Coffee Sales Insights.xlsx` | Cleaned dataset used for visualizations |  
-| `Coffee Sales Insights.pdf` | Printable static version of the dashboard |  
-| `Coffee Sales Insights.pptx` | Summary presentation deck for stakeholders |  
+| File                          | Description                            |
+|-------------------------------|----------------------------------------|
+| Coffee Sales Insights.twbx     | Tableau Packaged Workbook              |
+| Coffee Sales Insights.xlsx     | Cleaned dataset                        |
+| Coffee Sales Insights.pdf      | Static dashboard version               |
+| Coffee Sales Insights.pptx     | Summary presentation deck              |
  
 
 ---
