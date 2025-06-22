@@ -1,6 +1,11 @@
 # ☕ Coffee Sales Insights
 
 Welcome to my exploratory data analysis and visualization project on coffee sales  — where Excel meets Tableau and numbers turn into narrative.
+---
+![Built with Excel](https://img.shields.io/badge/Built%20with-Microsoft%20Excel-green?logo=microsoft-excel&logoColor=white)
+![Visualized in Tableau](https://img.shields.io/badge/Visualized%20in-Tableau-blue?logo=tableau)
+![Data Storytelling](https://img.shields.io/badge/Focus-Storytelling%20with%20Data-orange?logo=datadog)
+![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ---
 
