@@ -8,6 +8,8 @@ Welcome to my exploratory data analysis and visualization project on coffee sale
 ![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ---
+![image](https://github.com/user-attachments/assets/7800895d-e807-44f3-becb-810edc182eb3)
+
 
 ## 📌 Project Overview
 
